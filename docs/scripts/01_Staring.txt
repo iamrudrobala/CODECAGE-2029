@@ -1,0 +1,132 @@
+**\[Scene: Walking home from school | Late Afternoon]**
+
+You walk alone, your backpack slightly heavy from the day's books. The sky is turning orange. The neighborhood is quiet — almost too quiet.
+
+Suddenly, you hear it.
+
+*A soft engine purrs behind you.*
+
+> *...A car?*
+
+You glance over your shoulder.
+
+A black car. Sleek. Windows tinted so dark, you can’t see the driver. It's moving slowly… matching your pace.
+
+> *Why is he following me...?*
+
+You try to stay calm and keep walking, a little faster this time.
+
+But the car speeds up too.
+
+> *Nope. Not a coincidence.*
+
+You break into a light jog, pretending not to panic.
+
+*SCREECH!*
+
+The car swerves ahead and stops — cutting you off.
+
+The door swings open.
+
+A man steps out. Black gloves. Long coat. You can’t see his face clearly, but he’s walking toward you fast.
+
+**→ What do you do?**
+
+* \[Run]
+* \[Shout for help]
+* \[Freeze]
+
+*(If player chooses \[Run]):*
+You turn and sprint. Your feet pound the pavement. You don’t look back—
+But he’s faster.
+
+You’re tackled from behind.
+
+"Got you," the man mutters, pinning you down.
+
+> *Who IS this guy?!*
+
+He pulls out something metallic… small… like a pen. But it hisses.
+
+> *Wait... an injection?!*
+
+You thrash, but it’s too late.
+
+*PSSHT!*
+
+The needle stabs into your neck.
+
+> *W-what… is this...? Why can’t I move... everything’s... blurry...*
+
+Your limbs go numb. Your vision fades.
+
+The last thing you hear is the car door slamming shut.
+
+**\[You black out.]**
+
+---
+If the player chooses [Shout for help]:
+You turn around and scream at the top of your lungs.
+
+"HELP! SOMEBODY HELP ME!!"
+
+Your voice echoes through the empty street...
+
+But no one answers.
+
+Where is everyone?!
+
+The man steps out of the car calmly, almost annoyed. He pulls something from his coat — the same small metallic injector.
+
+"Why do they always scream first?"
+
+Wait—what?
+
+He lunges. You try to run now, but he’s too close. His hand covers your mouth.
+
+You struggle violently.
+
+PSSHT!
+
+The injector hisses into your neck.
+
+Your scream dies in your throat.
+
+I can't... move... my eyes... are so heavy...
+
+You collapse.
+
+[You black out.]
+
+If the player chooses [Freeze]:
+Your body locks up. You want to run, scream, anything — but you can’t.
+
+Move. MOVE!
+
+The man steps closer, footsteps echoing.
+
+He doesn’t speak.
+
+Just walks straight up to you.
+
+You’re frozen in place — a deer in headlights.
+
+He raises a strange device in his hand.
+
+You open your mouth to scream.
+
+Too late.
+
+PSSHT!
+
+The injection pierces your neck like a dart.
+
+Wh-what...? My legs... they're gone...
+
+Your knees buckle.
+
+Darkness swallows your vision.
+
+[You black out.]
+
+                              
