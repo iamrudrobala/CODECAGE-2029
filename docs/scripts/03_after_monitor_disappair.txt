@@ -1,0 +1,118 @@
+
+### **\[Scene: Just after the AI screen disappears]**
+
+You hear a *clunk*. A hidden door slides open behind you.
+
+Two guards step in. Black uniforms. Helmets. You can’t see their faces — only the shining metal of their tasers.
+
+One of them speaks in a flat voice:
+
+**\[Guard]:**
+“Get up. Come with us.”
+
+> *What the hell is going on? Are they taking me somewhere else?*
+
+---
+
+**→ What do you do?**
+
+1. \[Try to fight the guard]
+2. \[Stay calm and follow them]
+
+---
+
+### **If player chooses \[1. Try to fight the guard]:**
+
+You clench your fists and leap forward.
+
+**\[You]:**
+“LIKE HELL I’M GOING ANYWHERE WITH YOU!”
+
+You swing at the nearest guard.
+
+But before your punch lands—
+
+*ZAP!*
+
+You’re hit with a high-voltage shock.
+
+Everything goes white.
+
+---
+
+### **\[Scene resumes in the same room as Choice 2, after waking up]**
+
+You wake up — again.
+
+But this time... in a completely different place.
+
+A **beautiful room.** Soft bed. Warm lighting. A tray of delicious food beside you. Clean clothes folded neatly.
+
+> *Wait... this is... nice?*
+
+A small speaker on the wall crackles.
+
+**\[AI Voice - same one from earlier]:**
+"Welcome again, Rudro. A rough start, but you're here now."
+
+---
+
+### **If player chooses \[2. Stay calm and follow them]:**
+
+You swallow your fear and nod.
+
+> *No point in rushing things... let’s see where this leads.*
+
+The guards escort you through a long metallic hallway. Strangely quiet.
+
+A door opens — and inside is a **beautiful room.**
+
+Comfortable bed. Warm lighting. Good food.
+
+> *They’re… treating me well?*
+
+**\[AI Voice]:**
+"Smart choice. Welcome, Rudro. You’ll need your strength soon."
+
+---
+
+### **Next Options (after player explores room or eats):**
+
+Time passes. You’ve rested, eaten. But questions keep burning in your mind.
+
+A guard finally appears at your door.
+
+He stands silently, watching.
+
+**→ What do you do now?**
+
+1. \[Ask the guard what's going on]
+2. \[Say nothing and wait]
+
+---
+
+### **If player chooses \[2. Wait]:**
+
+You stay silent. Just watching. Waiting.
+
+Minutes pass.
+
+Then hours.
+
+No one comes back.
+
+You grow restless. Hungry again. The silence is loud.
+
+Eventually, the guard returns.
+
+You can’t take it anymore.
+
+**\[You]:**
+“Hey! What is this place?! What do you want from me?!”
+
+He stares at you through his visor.
+
+And finally responds:
+
+**\[Guard]:**
+“You’ll find out. Soon.”
